@@ -9,4 +9,5 @@ def reformat_languages(languages)
           new_hash[language] = {}
         end 
         new_hash[language][:style] || = []
+        new_hash[lalanguage][:sstyle] << oo_or_functional
 end
